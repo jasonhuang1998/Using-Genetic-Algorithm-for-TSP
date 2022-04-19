@@ -1,6 +1,6 @@
 # Using-Genetic-Algorithm-for-TSP
 
-## Table of content
+## Table of Content
 - [Introduction](#Introduction)
 - [Input File](#Input-File)
 - [Input](#Input)
