@@ -1,4 +1,4 @@
-# Using-Genetic-Algorithm-for-TSP
+# Using Genetic Algorithm for TSP
 
 ## Table of Content
 - [Introduction](#Introduction)
