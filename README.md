@@ -47,4 +47,4 @@ pip main.py
 ```
 
 ## Requirements
-* matpltolib
+* matplotlib
