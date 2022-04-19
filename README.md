@@ -10,7 +10,7 @@
 
 ## Introduction
 * The code for Artificial Intelligence cources at NCUE.
-* Use Genetic Algorithm to implement Travelling salesman problem(TSP).
+* Using Genetic Algorithm to implement Travelling salesman problem(TSP).
 * Two ways of mating and mutation  are designed.
 
 ## Input File
