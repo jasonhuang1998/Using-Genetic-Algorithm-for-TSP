@@ -47,6 +47,4 @@ pip main.py
 ```
 
 ## Requirements
-* random
 * matpltolib
-* time
