@@ -19,14 +19,13 @@
 * The elements in the matrix mean the distance between a node to another, and the elements must be positive integer or 0(means that there is no edge between those nodes).
 * A connection from a node to itself is not permitted(all diagonal element are 0).
 * All elements in the matrix are seperated by space.
-
-Example:  
-5  
-0 1 2 3 4  
-3 0 3 5 7  
-4 6 0 5 1  
-3 1 9 0 7  
-1 4 8 5 0  
+* Example:  
+  5  
+  0 1 2 3 4  
+  3 0 3 5 7  
+  4 6 0 5 1  
+  3 1 9 0 7  
+  1 4 8 5 0  
 
 
 ## Input 
